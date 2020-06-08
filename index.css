@@ -1,0 +1,36 @@
+/* p.xlarge {
+    color: #000000;
+    background-color: yellow;
+    font-family: "Times New Roman", Times, serif;
+    font-size: x-large;
+} */
+
+p.small {
+    color: #000000;
+    background-color: yellow;
+    font-family: "Times New Roman", Times, serif;
+    font-size: small;
+}
+p.medium {
+    color: #000000;
+    background-color: yellow;
+    font-family: "Times New Roman", Times, serif;
+    font-size: medium;
+}
+p.large {
+    color: #000000;
+    background-color: yellow;
+    font-family: "Times New Roman", Times, serif;
+    font-size: large;
+}
+p.xlarge {
+    color: #000000;
+    background-color: yellow;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 40px;
+    font-variant: small-caps;
+    text-align: ;
+}
+
+
